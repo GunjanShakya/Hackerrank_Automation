@@ -123,9 +123,6 @@ let page
             resolve()
         }).then(function(err){
             reject();
-        })
-         
-         
-         
+        })  
         })
     }
