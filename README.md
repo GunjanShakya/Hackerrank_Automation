@@ -6,6 +6,7 @@
 
 # Software needed for Script Execution
 Operating System - Microsoft Windows 10
+IDE - Microsoft Visual Studio Code
 
 # How to execute
 
