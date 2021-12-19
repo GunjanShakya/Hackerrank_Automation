@@ -3,7 +3,7 @@
 
 # Software needed for Script Execution
 - Operating System - Microsoft Windows 10
- IDE - Microsoft Visual Studio Code
+- IDE - Microsoft Visual Studio Code
  JavaScript runtime - Node.js
 
 # Progamming Language used
