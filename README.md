@@ -12,5 +12,5 @@
 
 # How to execute
 - Type the following in your terminal if you are executing the code from the folder in which the script exist
-- > `node <filename>`
+ > `node <filename>`
 
