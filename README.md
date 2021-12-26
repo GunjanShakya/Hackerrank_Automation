@@ -5,6 +5,7 @@
 - Operating System - Microsoft Windows 10
 - IDE - Microsoft Visual Studio Code
 - JavaScript runtime - Node.js
+- Broswer - Chromium
 
 # Progamming Language used
 [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
