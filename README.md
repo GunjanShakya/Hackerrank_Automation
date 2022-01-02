@@ -18,3 +18,4 @@
  > `node <full file path with filename>`
 
 # Node Package needed for execution of script
+* Puppeteer
