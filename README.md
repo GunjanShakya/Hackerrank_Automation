@@ -5,7 +5,7 @@
 - Operating System - Microsoft Windows 10
 - IDE - Microsoft Visual Studio Code
 - JavaScript runtime - Node.js
-- Broswer - Chromium(downloaded during the installation of Puppeteer) 
+- Broswer - Chromium (downloaded during the installation of Puppeteer) 
 
 # Progamming Language used
 [JavaScript(JS) ](https://www.w3schools.com/js/DEFAULT.asp)
