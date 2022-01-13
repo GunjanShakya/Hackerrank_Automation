@@ -18,5 +18,5 @@
  > `node <full file path with filename>`
 
 # Node Package needed for script execution 
-* Puppeteer - Install in the directory where the code is present
+* Puppeteer - Install in the directory where the code is present.
  > `npm install puppeteer`
