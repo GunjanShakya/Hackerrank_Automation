@@ -10,6 +10,9 @@
 # Progamming Language used
 [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
 
+# Node Package needed for script execution 
+* Puppeteer - Install in the directory where the code is present
+ > `npm install puppeteer`
 
 # How to execute
 - Type the following in your terminal if you are executing the code from the folder in which the script exist
@@ -17,6 +20,4 @@
 - Type the following in your terminal if you are executing the code from the folder in which the script does not exist
  > `node <full file path with filename>`
 
-# Node Package needed for script execution 
-* Puppeteer - Install in the directory where the code is present
- > `npm install puppeteer`
+
