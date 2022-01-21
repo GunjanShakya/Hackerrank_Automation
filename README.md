@@ -17,7 +17,7 @@
 # How to execute
 - Type the following in your terminal if you are executing the code from the folder in which the script exist:
  > `node <filename>`
-- Type the following in your terminal if you are executing the code from the folder in which the script does not exist
+- Type the following in your terminal if you are executing the code from the folder in which the script does not exist:
  > `node <full file path with filename>`
 
 
