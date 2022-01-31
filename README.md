@@ -1,5 +1,5 @@
 # Hackerrank_Automation
-- Used Puppeteer for Browser Automation
+- Used Puppeteer for Browser Automation.
 
 # Software needed for Script Execution
 - Operating System - Microsoft Windows 10
