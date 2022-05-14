@@ -8,7 +8,7 @@
 - Broswer - Chromium (downloaded during the installation of Puppeteer) 
 
 # Progamming Language used
-[JavaScript(JS) ](https://www.w3schools.com/js/DEFAULT.asp)
+[JavaScript ](https://www.w3schools.com/js/DEFAULT.asp)
 
 # Node Package needed for script execution 
 * Puppeteer - Install in the directory where the code is present
